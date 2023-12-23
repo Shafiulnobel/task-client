@@ -1,0 +1,4 @@
+input[type="radio"]:checked + label {
+    border: 2px solid black;
+    border-radius: 50%;
+}

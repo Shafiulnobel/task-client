@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"BASKET WITH HANDLES",
+        "img":"https://i.ibb.co/f4QqjVq/h1-product-8-600x728.jpg"
+    },
+    {
+        "id":2,
+        "title":"FLOWER VASE",
+        "img":"https://i.ibb.co/MVx3mVS/h1-product-7-600x728.jpg"
+    },
+    {
+        "id":3,
+        "title":"DECO ACCESSORY",
+        "img":"https://i.ibb.co/P6HZkj2/h1-product-6-600x728.jpg"
+    },
+    {
+        "id":4,
+        "title":"WALL CLOCK",
+        "img":"https://i.ibb.co/FYsTwGk/h1-product-5-600x728.jpg"
+    }
+]
